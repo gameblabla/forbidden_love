@@ -1,0 +1,3 @@
+X = Down
+Q = Select
+Z = Up

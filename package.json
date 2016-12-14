@@ -1,0 +1,130 @@
+{
+  "name": "forbidden_love",
+  "author": "gameblabla",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Forbidden Love",
+    "uuid": "fb9bfbb1-4294-4174-a611-16a7f5bb56fa",
+    "sdkVersion": "3",
+    "enableMultiJS": false,
+    "targetPlatforms": [
+		"aplite",
+		"basalt",
+		"diorite",
+		"emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+        "media": 
+        [
+			{
+			  "type": "png",
+			  "name": "IMAGE_HARMONIA_0",
+			  "file": "images/harmonia_1.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_HARMONIA_1",
+			  "file": "images/harmonia_2.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_HARMONIA_2",
+			  "file": "images/harmonia_3.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_HILBERT_0",
+			  "file": "images/hilbert_0.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_HILBERT_1",
+			  "file": "images/hilbert_1.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_HILBERT_2",
+			  "file": "images/hilbert_2.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_BLACKSCREEN",
+			  "file": "images/blackscreen.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "1Bit"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_REDSCREEN",
+			  "file": "images/redscreen.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_FUCK_0",
+			  "file": "images/fucking_1.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_FUCK_1",
+			  "file": "images/fucking_2.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_FUCK_2",
+			  "file": "images/fucking_3.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_CUM_0",
+			  "file": "images/dick_2.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_CUM_1",
+			  "file": "images/dick_3.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			},
+			{
+			  "type": "png",
+			  "name": "IMAGE_CUM_2",
+			  "file": "images/dick_4.png",
+			  "spaceOptimization": "memory",
+			  "memoryFormat": "Smallest"
+			}
+			
+        ]
+    }
+  }
+}
